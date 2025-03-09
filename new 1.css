@@ -113,13 +113,51 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://sites.google.com/site/konoplevmedia/coverstart2.png");
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/%D0%9A%D0%90%D0%A0%D0%A2%D0%98%D0%9D%D0%9A%D0%90.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
  background-position: top center;
+}
+#landing .parallax-two {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/%D0%9A%D0%90%D0%A0%D0%A2%202.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+#landing .parallax-three {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/%D0%9A%D0%90%D0%A0%D0%A2%203.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+#landing .line-break {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
+}
+#landing .line-break {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
 }
 #landing .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
